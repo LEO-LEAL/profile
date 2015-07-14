@@ -1,0 +1,53 @@
+body{
+  background: #E7E6EB;
+  background-image: url("how-are-blue-nose-pitbull-puppies-created.jpg");
+}
+
+h1{
+  color: #040454;
+  background: #C5C5ED;
+  padding: 30px;
+  width: 20%;
+  border-radius: 25px;
+  font-family: 'Rock Salt', cursive;
+}
+
+img{
+  border-radius: 25px;
+  border: 5px solid grey;
+}
+
+figcaption{
+  font-size: 50px;
+  font-family: 'Rock Salt', cursive;
+  background: #C5C5ED;
+  border-radius: 25px;
+  width: 25%;
+}
+
+figcaption:hover{
+  font-size: 100px;
+  width: 50%;
+}
+
+#p2{
+ font-size: 25px;
+ border-radius: 25px;
+ background: #C5C5ED;
+ padding: 30px;
+ width: 70%;
+}
+
+h2{
+  border-radius: 25px;
+  background: #C5C5ED;
+  padding: 30px;
+  width: 17%;
+}
+
+p{
+  border-radius: 25px;
+  background: #C5C5ED;
+  padding: 10px;
+  width: 15%;
+}
